@@ -26,4 +26,4 @@ A simple Smart Study Planner built using FastAPI and SQLite to help students man
 ---
 
 ## 📌 Author
-- Your Name
+- ABHISHEK SAXENA
