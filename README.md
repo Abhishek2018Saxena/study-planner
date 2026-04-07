@@ -1,10 +1,11 @@
-# 📚 Smart Study Planner
+📚 Smart Study Planner
 
-A simple Smart Study Planner built using FastAPI and SQLite to help students manage tasks and track progress.
+A Smart Study Planner built using FastAPI and SQLite to help students manage their study tasks efficiently.
 
 ---
 
-## 🚀 Features
+🚀 Features
+
 - Add study tasks
 - View all tasks
 - Track progress (coming soon)
@@ -12,7 +13,8 @@ A simple Smart Study Planner built using FastAPI and SQLite to help students man
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+
 - Python
 - FastAPI
 - SQLite
@@ -20,10 +22,27 @@ A simple Smart Study Planner built using FastAPI and SQLite to help students man
 
 ---
 
-## 📂 Project Status
-🚧 In Progress (Day 1 - Setup Phase)
+📂 Project Status
+
+🚧 In Progress — Day 1 (Backend Setup Completed)
 
 ---
 
-## 📌 Author
-- ABHISHEK SAXENA
+▶️ How to Run
+
+1. Install dependencies
+   
+   pip install -r requirements.txt
+
+2. Run the server
+   
+   uvicorn main:app --reload
+
+3. Open in browser
+   http://127.0.0.1:8000/docs
+
+---
+
+📌 Author
+
+Abhishek Saxena
